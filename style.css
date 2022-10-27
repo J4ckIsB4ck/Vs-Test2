@@ -1,0 +1,37 @@
+.div{
+background-color: green;
+color: cadetblue;
+border: 3px solid black;
+margin: 30px;
+padding: 50px;
+}
+body{
+    background-image: url(img/загружено.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px;
+}
+#ne{
+    text-align: center;
+    background-color: blueviolet;
+    color: red;
+    border: 3px solid black;
+    margin: 30px;
+    padding: 50px;
+    font-style:italic;
+}
+*{
+    text-align: center;
+    color: rgb(232, 232, 232);
+}
+p.large{
+    font-size: 100px;
+}
+p.odin{
+    opacity: 0.6;
+}
+div.first {
+    background: rgba(0, 128, 0, 0.6);
+    font-size: large;
+  }
+  
